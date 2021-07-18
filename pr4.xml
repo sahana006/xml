@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href="pr4.xsl"?>
+<emp>
+<s>
+ <eno> 1001 </eno>
+ <name> 
+	<fname> Rani </fname>
+	<lname> kumari </lname>
+	<mname> R</mname>
+ </name>
+ <fathername>Kumar </fathername>
+ <DOB> 18-01-1989</DOB>
+ <city> manglore</city>
+ <state>karnataka  </state>
+ <qualification> BCA </qualification>
+</s>
+<s>
+ <eno> 102 </eno>
+ <name> 
+	<fname> Sweety</fname>
+	<lname> Frendy</lname>
+	<mname> S </mname>
+ </name>
+ <fathername> Ram </fathername>
+ <DOB> 18-02-1998 </DOB>
+ <city> Bhopal </city>
+ <state> MP </state>
+ <qualification> MCA </qualification>
+</s>
+<s>
+ <eno> 103 </eno>
+ <name> 
+	<fname> Himani</fname>
+	<lname> Shett </lname>
+	<mname> H</mname>
+ </name>
+ <fathername> Bhaskar </fathername>
+ <DOB> 18-03-1867 </DOB>
+ <city> Chennai </city>
+ <state> TN </state>
+ <qualification>doctor</qualification>
+</s>
+</emp>
+
+
